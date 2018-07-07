@@ -2,9 +2,9 @@
 ('RIT-MANHATTAN', '10022’)
 ('NEW LOTS AV’, ‘11207’)
 ('SUTTER AV-RUTLD, ‘11207’)
-(FAILED -NEWARK BM BW)  # Maybe we may have to say 00000
+('NEWARK BM BW', '00000')  # Maybe we may have to say 00000
 ('TWENTY THIRD ST', ‘10011')
-(FAILED  NEWARK HW BMEBE)  # Maybe we may have to say 00000
+('NEWARK HW BMEBE', '00000')  # Maybe we may have to say 00000
 ('JAMAICA CENTER', ‘11432')
 ('KEW GARDENS’, ‘11415')
 (JKSN HT-ROOSVLT, ‘11354')
@@ -12,7 +12,7 @@
 ('HOYT-SCHER’, ‘11201')
 ('14 ST’,’10011’)
 ('59 ST COLUMBUS’,’10023’)
-('HOWARD BCH JFK’, ‘1001'1)
+('HOWARD BCH JFK’, ‘11414')
 ('NEW LOTS’, ‘11414')
 ('SUTTER AV’,’11207')
 ('ATLANTIC AV' 11207
@@ -21,8 +21,8 @@
 (‘BOWERY’,’10002')
 (‘PRINCE’, ‘10012’)
 ('14 ST-UNION SQ’, ‘10003')
-('34 ST-HERALD SQ’, 10019)
-('59 ST’, 11220’)
+('34 ST-HERALD SQ’, '10019')
+('59 ST’, '11220')
 
 ***MY ‘ DO NOT MATCH UP with the one with I have. Download this and rewrite the ‘
 
